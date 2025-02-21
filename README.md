@@ -10,8 +10,7 @@ nmap crea un file "porte" greppeabile (-oG) dove inserirà le porte trovate
 
 Con 
 
-estraiporte ti memorizza le porte nella clipboard, quindi con i 
-tasti ctrl+shift+v ti incolla le porte
+estraiporte ti memorizza le porte nella clipboard
 
 	estraiporte <nomefile>
  
