@@ -9,14 +9,18 @@ Con
 estraiporte ti memorizza le porte nella clipboard, quindi con i 
 tasti ctrl+shift+v ti incolla le porte
 
-linux-user> estraiporte porte
+	estraiporte <nomefile>
+ 
+ esempio:
 
-[*] Estrazione informazioni...
+ 	estraiporte porte
 
-	[*] Indirizzo IP: <IP>
-	[*] Porte aperte: 22,80
+Estrazione informazioni...
 
-[*] Porte copiate nel clipboard (ctrl+shift+v)
+Indirizzo IP: <IP>
+Porte aperte: 22,80
+
+Porte copiate nel clipboard (ctrl+shift+v)
 
 Quindi eseguendo un'altra scansione "22,80" sarà possibile incollarlo nel comando
 
