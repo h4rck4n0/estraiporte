@@ -28,6 +28,8 @@ nmap <IP> -p <qui premi i tasti ctrl+shift+v> -sCV ----> nmap <IP> -p 22,80 -sCV
 
 Questo comando è utile quando nmap trova molte porte, così ci evita di scrivere a mano tutte le porte.
 
+----------------------------------------------
+
 Installazione:
 
 con i permessi di root, basta copiare il file estraiporte nella directory /usr/bin
