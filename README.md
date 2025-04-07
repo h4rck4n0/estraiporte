@@ -3,7 +3,7 @@ estrae le porte trovate da nmap
 
 
 esempio:
-nmap <IP> -p- --open  -sS -min-rate 5000 -vvv-oG <porte>
+nmap <IP> -p- --open  -sS -min-rate 5000 -vvv -oG <porte>
 
 
 nmap crea un file "porte" greppeabile (-oG) dove inserirà le porte trovate
